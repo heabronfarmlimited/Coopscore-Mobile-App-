@@ -1,0 +1,4 @@
+{
+    "STAGING_BASE_URL": "Your staging base URL here",
+    "PRODUCTION_BASE_URL": "Your production base URL here"
+}
